@@ -60,7 +60,7 @@ Below are some early visual direction and mood concepts:
 |----------------|----------|
 | **preMidScene** | ![Scene Sketch](./assets/storyboards/preMidScene.png) |
 | **midBombBlast** | ![Scene Sketch](./assets/storyboards/midBombBlast.png) |
-| **pre-Climax** | ![Scene Sketch](./assets/cinematic/pre-Climax.png) |
+| **pre-Climax** | ![Scene Sketch](./assets/cinematic/preClimax.png) |
 | **Climax** | ![Scene Sketch](./assets/cinematic/climax.png) |
 
 *(All assets are original and in early development.)*
