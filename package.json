@@ -1,7 +1,10 @@
 {
-  "homepage": "https://github.com/Kiran7613/game-portfolio",
+  "homepage": "https://kiran7613.github.io/game-portfolio",
   "name": "veil-of-fate-portfolio",
   "version": "1.0.0",
+  "description": "Official portfolio site for Veil of Fate — a story-driven cinematic game by Vamsi Kiran Kuchibhatla",
+  "author": "Vamsi Kiran Kuchibhatla <vamsikirankuchibhatla8093@gmail.com>",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -18,5 +21,18 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^4.3.1",
     "vite": "^5.0.0"
+  },
+  "keywords": [
+    "game",
+    "portfolio",
+    "unity",
+    "veil-of-fate",
+    "react",
+    "vite",
+    "game-dev"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kiran7613/game-portfolio.git"
   }
 }
