@@ -1,7 +1,5 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [react()],
-})
+# 1. Copy these files into your project (replacing vite.config.js)
+# 2. Then:
+git add .
+git commit -m "chore: add GitHub Pages deployment, LICENSE, and CONTRIBUTING guide"
+git push origin main
